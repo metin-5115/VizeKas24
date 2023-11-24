@@ -1,3 +1,4 @@
+
 client_id <- Sys.getenv("SPOTIFY_ID")
 client_secret <- Sys.getenv("SPOTIFY_SECRET")
 
